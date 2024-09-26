@@ -7,7 +7,7 @@ name: Generate Snake
 on:
   schedule:
     # every 24 hours at 7:17 Uhr
-    - cron: "17 7 * * *"
+    - cron: "00 7 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
