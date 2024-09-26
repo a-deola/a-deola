@@ -11,6 +11,7 @@
    </small>
   </p>
 <br>
+<br>
 
 ## Socials
 <div align=center style="display:flex; justify-content:space-between;">
@@ -36,7 +37,7 @@
 ![a-deola light](https://raw.githubusercontent.com/a-deola/a-deola/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 -----
-<div align="center">
+<div align="left">
 <a href="https://golang.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
 width="80" height="80" />
@@ -77,19 +78,3 @@ width="80" height="80" />
     </a>
     </div>
 
-
-
-<!--
-**a-deola/a-deola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
