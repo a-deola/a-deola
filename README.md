@@ -1,8 +1,16 @@
 ### Hi I'm Adeola 👋
 
-![Adeola](https://github-readme-stats.vercel.app/api/top-langs?username=a-deola&show_icons=true&locale=en&layout=compact&theme=onedark)
+![a-deola](https://github-readme-stats.vercel.app/api/top-langs?username=a-deola&show_icons=true&locale=en&layout=donut&theme=ambient_gradient&hide_progress=true)
 
-![Adeola](https://raw.githubusercontent.com/a-deola/a-deola/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![a-deola](https://github-readme-streak-stats.herokuapp.com/?user=a-deola&theme=ambient_gradient)
+
+![a-deola](https://github-readme-stats.vercel.app/api?username=a-deola&show_icons=true&locale=en&rank_icon=github&theme=ambient_gradient&hide_title=true)
+
+![a-deola](https://raw.githubusercontent.com/a-deola/a-deola/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![a-deola](https://raw.githubusercontent.com/a-deola/a-deola/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
+
+
 
 <!--
 **a-deola/a-deola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
