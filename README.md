@@ -3,16 +3,14 @@
 <img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-deola&show_icons=true&locale=en&hide_progress=true&theme=jolly" alt="Adeola's top languages" />
  <p align="left">
   <small>
-- 💬 Passionate about <b>TypeScript, Go, Docker, Nodejs</b> and more <br>
-- 📚 Studied Computer Science at the <a href="https://www.uniport.edu.ng/">University Of Port Harcourt</a><br>
-- 💡 Continuously learning and evolving through every challenge<br>
-- 🌟 Checkout my <a href="https://github.com/a-deola?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
-- 🤝 Let’s connect and collaborate on exciting tech opportunities!
+💬 Passionate about <b>TypeScript, Go, Docker, Nodejs</b> and more <br>
+📚 Studied Computer Science at the <a href="https://www.uniport.edu.ng/">University Of Port Harcourt</a><br>
+💡 Continuously learning and evolving through every challenge<br>
+🌟 Checkout my <a href="https://github.com/a-deola?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
+🤝 Let’s connect and collaborate on exciting tech opportunities!
    </small>
   </p>
 <br>
-<br>
-
 
 ## Socials
 <div align=center style="display:flex; justify-content:space-between;">
@@ -21,6 +19,7 @@
   [![DISCORD](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.gg/tMhWqZ7BKv)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/itsadeola)
 </div>
+
 <br>
 
 
