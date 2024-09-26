@@ -21,7 +21,7 @@
   [![DISCORD](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.gg/tMhWqZ7BKv)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/itsadeola)
 </div>
-
+<br>
 -----
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
