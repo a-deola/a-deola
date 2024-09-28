@@ -23,7 +23,7 @@
   [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/a-deola/)
   [![DISCORD](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.gg/tMhWqZ7BKv)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/itsadeola)
-  [![Mail](https://img.shields.io/badge/Gmail-3C3C3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prechie.samuel@gmail.com)
+  [![Mail](https://img.shields.io/badge/Gmail-3C3C3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetprecious1403@gmail.com)
 </div>
 
 <br>
