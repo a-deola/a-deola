@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Adeola 
-<img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-deola&show_icons=true&locale=en&hide_progress=true&theme=jolly" alt="Adeola's top languages" />
+<img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-deola&show_icons=true&locale=en&hide_progress=true&theme=ambient_gradient" alt="Adeola's top languages" />
  <p align="left">
   <small>
 💬 Passionate about <b>TypeScript, Go, Docker, Nodejs</b> and more <br>
@@ -19,6 +19,7 @@
   [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/a-deola/)
   [![DISCORD](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.gg/tMhWqZ7BKv)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/itsadeola)
+  [![Mail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prechie.samuel@gmail.com)
 </div>
 
 <br>
@@ -27,8 +28,8 @@
 -----
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=a-deola&theme=ambient_gradient" alt="Adeola" />
         <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=a-deola&show_icons=true&locale=en&rank_icon=github&theme=jolly&hide_title=true#gh-dark-mode-only" alt="Adeola" />
-          <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=a-deola&theme=ambient_gradient" alt="Adeola" />
     </span>
 </p>
 
@@ -37,6 +38,8 @@
 ![a-deola light](https://raw.githubusercontent.com/a-deola/a-deola/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 -----
+
+### 🧰 My Favorite Tools
 <div align="left">
 <a href="https://golang.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
