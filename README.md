@@ -4,9 +4,13 @@
  <p align="left">
   <small>
 💬 Passionate about <b>TypeScript, Go, Docker, Nodejs</b> and more <br>
+   
 📚 Studied Computer Science at the <a href="https://www.uniport.edu.ng/">University Of Port Harcourt</a><br>
+
 💡 Continuously learning and evolving through every challenge<br>
+
 🌟 Checkout my <a href="https://github.com/a-deola?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
+
 🤝 Let’s connect and collaborate on exciting tech opportunities!
    </small>
   </p>
