@@ -83,5 +83,10 @@ width="80" height="80" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
     alt="python"  width="80" height="80" />
     </a>
+        </a>
+       <a href="https://react.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    alt="react"  width="80" height="80" />
+    </a>
     </div>
 
