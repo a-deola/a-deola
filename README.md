@@ -9,7 +9,7 @@
 
 💡 Continuously learning and evolving through every challenge<br>
 
-🌟 Checkout my <a href="https://github.com/a-deola?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
+🌟 Check out my <a href="https://github.com/a-deola?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
 
 🤝 Let’s connect and collaborate on exciting tech opportunities!
    </small>
