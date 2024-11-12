@@ -39,7 +39,7 @@ jobs:
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#ff64da&color_dots=#f6bfd6,#ff8dff,#f464f4,#e14bf1,#d93cd9
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff64da&color_dots=#ff8dff,#f464f4,#e14bf1,#d93cd9
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff64da&color_dots=#2a2a2a,#ff8dff,#f464f4,#e14bf1,#d93cd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
