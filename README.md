@@ -26,6 +26,7 @@
   [![Mail](https://img.shields.io/badge/Gmail-3C3C3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetprecious1403@gmail.com)
 </div>
 <br>
+
 -----
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
