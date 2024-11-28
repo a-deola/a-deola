@@ -46,6 +46,11 @@
 ### 🧰 My Favorite Tools
 <div align="left">
 <a href="https://golang.org" target="_blank">
+      </a>
+       <a href="https://react.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    alt="react"  width="80" height="80" />
+    </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
 width="80" height="80" />
     </a>
@@ -53,12 +58,8 @@ width="80" height="80" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
     alt="typescript"  width="80" height="80"/>
     </a>
-    <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    alt="express" width="80" height="80"/>
-    </a>
     <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
     alt="nodejs" width="80" height="80"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -83,10 +84,19 @@ width="80" height="80" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
     alt="python"  width="80" height="80" />
     </a>
-        </a>
-       <a href="https://react.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-    alt="react"  width="80" height="80" />
+   <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg"
+    alt="nestjs" width="80" height="80"/>
+    </a>
+       </a>
+       <a href="https://firebase.google.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original-wordmark.svg"
+    alt="firebase"  width="80" height="80" />
+    </a>
+       </a>
+       <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+    alt="mongodb"  width="80" height="80" />
     </a>
     </div>
 
