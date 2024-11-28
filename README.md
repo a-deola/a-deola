@@ -19,6 +19,7 @@
 
 ## 👤 Reach Me
 <div align=center>
+ 
   [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/a-deola/)
   [![DISCORD](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.gg/tMhWqZ7BKv)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/itsadeola)
