@@ -5,7 +5,7 @@
   <small>
 💬 Passionate about <b>TypeScript, Go, Docker, Nodejs</b> and more <br>
    
-📚 Studied Computer Science at the <a href="https://www.uniport.edu.ng/">University Of Port Harcourt</a><br>
+📚 Studied Computer Science at the <a target="_blank" href="https://www.uniport.edu.ng/">University Of Port Harcourt</a><br>
 
 💡 Continuously learning and evolving through every challenge<br>
 
@@ -19,16 +19,12 @@
 
 ## 👤 Reach Me
 <div align=center>
-  
   [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/a-deola/)
   [![DISCORD](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.gg/tMhWqZ7BKv)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/itsadeola)
   [![Mail](https://img.shields.io/badge/Gmail-3C3C3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetprecious1403@gmail.com)
 </div>
-
 <br>
-
-
 -----
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
