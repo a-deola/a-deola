@@ -30,7 +30,7 @@
 -----
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=a-deola&theme=ambient_gradient" alt="Adeola" />
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=a-deola&theme=ambient_gradient" alt="readme-streak-stats"/>
         <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=a-deola&show_icons=true&locale=en&rank_icon=github&theme=jolly&hide_title=true#gh-dark-mode-only" alt="Adeola" />
     </span>
 </p>
