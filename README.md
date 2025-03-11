@@ -4,8 +4,6 @@
  <p align="left">
   <small>
 💬 Passionate about <b>TypeScript, Go, Docker, Nodejs</b> and more <br>
-   
-📚 Studied Computer Science at the <a target="_blank" href="https://www.uniport.edu.ng/">University Of Port Harcourt</a><br>
 
 💡 Continuously learning and evolving through every challenge<br>
 
